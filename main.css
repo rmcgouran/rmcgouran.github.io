@@ -69,3 +69,23 @@ nav {
     display: flex;
     padding-left: 10%;
 }
+
+.modules {
+    font-family: 'Kiwi Maru', serif;
+    display: flex;
+    padding-left: 10%;
+    padding-top: 0%;
+}
+.uni {
+    display: flex;
+    padding-top: 10%;
+    padding-left: 10%;
+    font-family: 'Kiwi Maru', serif;
+    font-weight: bold;
+}
+.year2 {
+    padding-left: 5%;
+}
+.year3 {
+    padding-left: 5%;
+}
