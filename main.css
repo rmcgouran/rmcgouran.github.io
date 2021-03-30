@@ -62,7 +62,7 @@ nav {
     font-family: 'Kiwi Maru', serif;
     display: flex;
     padding-left: 10%;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 .sub-text {
     font-family: 'Kiwi Maru', serif;
@@ -78,7 +78,7 @@ nav {
 }
 .uni {
     display: flex;
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 10%;
     font-family: 'Kiwi Maru', serif;
     font-weight: bold;
